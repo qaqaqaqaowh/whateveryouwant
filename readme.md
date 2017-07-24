@@ -1,6 +1,11 @@
-oafscusslcnsdol;fnldsjgkfl;ernfvlsdnfslcnesd;lfncsdl;nfc;lsdnxvc;ndsz;lcindslnfc;sdnz;xclknsdzxlfcnsl;znfldnzdlfknsldknfcslkzdxvnlczkndxc.cvknl.lcvnzdlzxnvc/ldsznxlcsdzcldknzxvlsdlkfnvcsdlknzfcflwesflcnsdlnvknlksdnv;lkndzv.jlnlcnz;sldvnxcsznclskdnc;zdklnzvlsndvlknzxclkdnlvnkldsnvlkdnvl;nsdvlknsd;vlnzslzknvdlfknldknbslkdn;lbskdnzb;lnsb
+```
 
+go to github.com, click on the "+" sign to create a new repo
+$cd <folder name>
+$git init
+$git add .
+$git commit
+$git remote add origin https://github.com/qaqaqaqaowh/whateveryouwant.git
+$git push origin master
 
-
-
-anything
+```
